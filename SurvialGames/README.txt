@@ -1,0 +1,1 @@
+This is my mod for Quake4, known as Survival Games. This mod will include 5 classes with 5 special ability for each class. There is also a feature in which items will randomly spawn around you. Use these mods to make quake more enjoyable and fun to play and try to learn new skills and tricks with the abilities.

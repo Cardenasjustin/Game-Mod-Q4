@@ -1,0 +1,21 @@
+log file 'qconsole.log' opened on Tue Mar 11 21:16:57 2025
+
+]map game/airdefense1
+Non-portable: path contains uppercase characters: SurvialGames/maps/game
+Non-portable: path contains uppercase characters: SurvialGames/maps/game
+------------ Game Map Shutdown --------------
+---------------------------------------------
+reloading guis/mainmenu.gui.
+reloading guis/restart.gui.
+reloading guis/gameover.gui.
+reloading guis/msg.gui.
+reloading guis/takeNotes2.gui.
+reloading guis/takeNotes.gui.
+reloading guis/takeNotesQA.gui.
+reloading guis/editcvars.gui.
+reloading guis/spawn.gui.
+reloading guis/intro.gui.
+reloading guis/netmenu.gui.
+------------ Map Initialization -------------
+Map: game/airdefense1
+crashed! writing report out to C:\Program Files (x86)\Steam\steamapps\common\Quake 4\CrashReports\3_11\21_15_Quake4_1.4.3.dmp and exiting.
